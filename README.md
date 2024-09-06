@@ -7,6 +7,8 @@
 In this repo you will find the code and documentation of the **homework for week 2** of the 
 **Encode Club AI and GPT Bootcamp Q3 2024**.
 
+<img src="images/Screenshot-Encode-HW-W2-2024-09.png">
+
 The main goal of this assignment is to develop an intuitive and engaging user interface for joke generation, integrating dynamic content creation into the web application. This will enhance user interaction and showcase the potential of AI-driven content generation.
 
 This homework has been done by the following members of **GROUP 9**:
